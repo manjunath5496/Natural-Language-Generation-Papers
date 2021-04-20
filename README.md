@@ -4,7 +4,7 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Natural-Language-Generation-Papers/blob/master/nlg(1).rar" style="text-decoration:none;">Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Natural-Language-Generation-Papers/blob/master/nlg(1).pdf" style="text-decoration:none;">Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Natural-Language-Generation-Papers/blob/master/nlg(2).pdf" style="text-decoration:none;">Neural Text Generation: A Practical Guide</a></li>
 
